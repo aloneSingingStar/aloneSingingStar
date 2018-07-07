@@ -17,4 +17,9 @@
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
+    <style name="Test_CircleView">
+        <item name="android:background">@drawable/ic_launcher_background</item>
+        <!-- 自定义属性-->
+        <item name="circle_color">@color/colorPrimary</item>
+    </style>
 </resources>
