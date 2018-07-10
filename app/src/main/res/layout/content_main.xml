@@ -8,7 +8,7 @@
     tools:context=".MainActivity"
     tools:showIn="@layout/activity_main">
 
-    <com.alonesingingstar.view.CircleView
+    <com.alonesingingstar.view.scroll.CircleView_Layout_Absolute_Coordinates
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         style="@style/Test_CircleView"
